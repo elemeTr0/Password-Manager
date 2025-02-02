@@ -91,6 +91,7 @@ void searchAccount() {
     }
 
     prt.close();
+    cout<<"Click anything to continue . . .";
     getch();
     system("cls");
 }
